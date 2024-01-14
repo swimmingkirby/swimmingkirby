@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @swimmingkirby
-- 👀 I’m interested in Web and Game Development.
-- 🌱 I’m currently learning HTML CSS & JS
-- 💞️ I’m looking to collaborate on any basic web development project.
-- 📫 How to reach me hamzawahbi1@outlook.com
+- 📫 hamzawahbi.com
 
 <!---
 swimmingkirby/swimmingkirby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
